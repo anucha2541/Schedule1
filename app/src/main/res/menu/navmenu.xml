@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="DashBoard"/>
+
+    <item android:id="@+id/appointment"
+        android:icon="@drawable/appointment"
+        android:title="Appointment"/>
+
+    <item android:id="@+id/leave"
+        android:title="Leave"
+        android:icon="@drawable/leave"/>
+
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265005441252",
+    "project_id": "my-scheldule",
+    "storage_bucket": "my-scheldule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265005441252:android:ead1e7fc6dcb4f15858cf1",
+        "android_client_info": {
+          "package_name": "com.example.myschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265005441252-gt5qq3aivf261hbtergl8lc94gbm5ep5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myschedule",
+            "certificate_hash": "6963485825365917e0f4f0192650ef1bb86c65c8"
+          }
+        },
+        {
+          "client_id": "265005441252-p71t8iqad1nnph9p1trhlspntsplpf9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9ZpdyHKzOi5PoZNGibfJDqCKK2DAxmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265005441252-p71t8iqad1nnph9p1trhlspntsplpf9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
